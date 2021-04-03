@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinaWebPage", "InfinaWebPage\InfinaWebPage.csproj", "{08F7F724-6377-4025-BF45-A3BAEB2890CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F7F724-6377-4025-BF45-A3BAEB2890CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F7F724-6377-4025-BF45-A3BAEB2890CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F7F724-6377-4025-BF45-A3BAEB2890CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F7F724-6377-4025-BF45-A3BAEB2890CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FF0C740-ABA4-4EBE-ADCC-12960E045103}
+	EndGlobalSection
+EndGlobal
